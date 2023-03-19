@@ -10,7 +10,7 @@ import './index.css'
 
 const categoryOptions = [
   {
-    name: 'Clothing',
+    name: 'Cloth',
     categoryId: '1',
   },
   {
