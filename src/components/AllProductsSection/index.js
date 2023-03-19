@@ -14,7 +14,7 @@ const categoryOptions = [
     categoryId: '1',
   },
   {
-    name: 'Electronic',
+    name: 'Electronics',
     categoryId: '2',
   },
   {
